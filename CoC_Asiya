@@ -7,7 +7,7 @@
 　<title>サンプルHTML</title>
 </head>
 <body>
-　<h2>クロスワードっす</h2>
+　<p>クロスワードっす</p>
   <img src="images/sample.jpg" alt="サンプル画像" title="サンプル画像">
 </body>
 </html>
